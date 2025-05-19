@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curriculo-pedroaugusto/static/css/main.397cd422.css",
+    "main.js": "/curriculo-pedroaugusto/static/js/main.c09a39ba.js",
+    "index.html": "/curriculo-pedroaugusto/index.html",
+    "main.397cd422.css.map": "/curriculo-pedroaugusto/static/css/main.397cd422.css.map",
+    "main.c09a39ba.js.map": "/curriculo-pedroaugusto/static/js/main.c09a39ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397cd422.css",
+    "static/js/main.c09a39ba.js"
+  ]
+}
